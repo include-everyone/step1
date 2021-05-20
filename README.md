@@ -32,7 +32,7 @@ hello world!
 
 > 예시
 ```c
-my_print(hello world!!!);
+my_print("hello world!!!");
 ---------------------------
 out
 hello world!!!
